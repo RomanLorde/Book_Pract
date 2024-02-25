@@ -6,3 +6,5 @@ whole name : page.txt
 
 Create a new project
 Create a new package called chapter_1
+
+updated on github
