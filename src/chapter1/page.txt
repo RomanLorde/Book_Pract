@@ -1,0 +1,8 @@
+firts page chapter 1
+
+this is our book
+
+whole name : page.txt
+
+Create a new project
+Create a new package called chapter_1
